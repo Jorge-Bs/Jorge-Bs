@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mega560
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer sciences.
 - 🌱 I’m currently learning python, c, among others.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
