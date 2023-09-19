@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mega560
-- 👀 I’m interested in computer sciences.
-- 🌱 I’m currently learning python, c, among others.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studying software engineering, University of Oviedo.
+- 📌 I'm from Spain.
 
 <!---
 Mega560/Mega560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
