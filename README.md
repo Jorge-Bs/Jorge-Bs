@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mega560
+- 👋 Hi, I’m Jorge
 - 🌱 I’m currently studying software engineering, University of Oviedo.
 - 📌 I'm from Spain.
 
