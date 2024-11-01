@@ -8,12 +8,11 @@ I'm currently studying software engineering at the University of Oviedo. I'm pas
 - 📌 I'm from Asturias, Spain.
 
 ## GitHub Stats
+<img src="https://github-readme-stats-git-master-jorges-projects-6905331e.vercel.app/api?username=Jorge-Bs&show_icons=true&theme=radical" />
 
-![Jorge's GitHub stats](https://github-readme-stats-git-master-jorges-projects-6905331e.vercel.app/api?username=Jorge-Bs&show_icons=true&theme=radical)
 
 ## Top Languages
-
-![Top Languages](https://github-readme-stats-git-master-jorges-projects-6905331e.vercel.app/api/top-langs/?username=Jorge-Bs&layout=compact&theme=radical)
+<img src="https://github-readme-stats-git-master-jorges-projects-6905331e.vercel.app/api/top-langs/?username=Jorge-Bs&layout=compact&theme=radical" />
 
 
 <!---
