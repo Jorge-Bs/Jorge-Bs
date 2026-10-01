@@ -1,7 +1,7 @@
 # Hi there, I'm Jorge 👋
 
 Welcome to my GitHub profile! 
-I'm a software engineering. I'm passionate about learning and developing new skills in the field of software development.
+I'm a software engineer. I'm passionate about learning and developing new skills in the field of software development.
 
 ## About Me
 
